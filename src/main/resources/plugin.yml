@@ -1,0 +1,7 @@
+name: AnvilStorm
+version: '${version}'
+main: top.cxkcxkckx.yahu.yahu
+api-version: 1.13
+depend: [  ]
+softdepend: [ PlaceholderAPI ]
+authors: [ cxkcxkckx ]
